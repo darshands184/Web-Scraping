@@ -1,0 +1,14 @@
+# https://ibegin.tcs.com/iBegin/jobs/search
+
+job_url
+job_id
+job_title
+location
+experience
+apply_by
+job_description
+job_function
+job_role
+skills
+qualifications
+country
